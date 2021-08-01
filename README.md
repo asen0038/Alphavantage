@@ -6,20 +6,6 @@ Input API: Alphavantage
 
 Output API: Twilio SMS output
 
-## Implementation target Level
-
-CREDIT
-
-## TDD commit history
-
-The following list shows the commit history in the following format "RED SEQUENCE COMMIT URL" : "GREEN SEQUENCE COMMIT URL"
-
-1. f3651e1516d0f786ff6818869d2bb9f2d7f2a8ca : fa489696f8ce78ce62683cd7197b56651bd5a3b1
-
-Extension TDD commit list in the format "RED SEQUENCE COMMIT URL" : "GREEN SEQUENCE COMMIT URL"
-
-1. 42395fe4cebc985ac7fe06e609d511705155cde0 : b0cc9bfbecc4b3c8a109fe5f9e68228a2ade1659
-
 ## Configuration required
 
 Please treat this configuration as a prerequsite before running the application.
